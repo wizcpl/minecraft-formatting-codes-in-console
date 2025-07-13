@@ -6,8 +6,4 @@ It is so easy to use:
 | --- | --- |
 | colortxt("&2Hello World!") | $\textcolor{green}{Hello\ World!}$ |
 
-You can change the backgorund of the text:
-
-| Command | Result |
-| --- | --- |
-| colortxt("&2&bHello World!") | $\colorbox{green}{{\color{black}{Hello\ World!}}}$ |
+You can change the background of the text, and even It style! Try It!
